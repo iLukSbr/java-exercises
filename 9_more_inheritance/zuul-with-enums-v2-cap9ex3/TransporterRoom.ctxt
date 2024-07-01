@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TransporterRoom
+comment1.params=description
+comment1.target=TransporterRoom(java.lang.String)
+comment2.params=direction
+comment2.target=Room\ getExit(java.lang.String)
+numComments=3

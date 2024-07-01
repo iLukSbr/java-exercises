@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Aeroporto
+comment1.params=
+comment1.target=Aeroporto()
+comment2.params=pista
+comment2.target=void\ adicionarPista(Pista)
+comment3.params=controlador
+comment3.target=void\ adicionarControlador(ControladorTrafegoAereo)
+comment4.params=
+comment4.target=void\ operar()
+numComments=5

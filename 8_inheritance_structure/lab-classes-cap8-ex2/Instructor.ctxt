@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Instructor
+comment1.params=fullName\ id
+comment1.target=Instructor(java.lang.String,\ java.lang.String)
+numComments=2

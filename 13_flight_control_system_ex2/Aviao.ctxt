@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Aviao
+comment1.params=identificador
+comment1.target=Aviao(java.lang.String)
+comment2.params=novoStatus
+comment2.target=void\ atualizarStatus(java.lang.String)
+comment3.params=
+comment3.target=boolean\ verificarIntegridade()
+numComments=4

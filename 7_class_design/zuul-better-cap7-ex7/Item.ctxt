@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=weight\ description
+comment1.target=Item(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getWeight()
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Actor
+comment0.text=\r\n\ An\ actor\ in\ the\ taxi-company\ simulation.\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ Kolling\r\n\ @version\ 2008.03.30\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Implement\ the\ actor's\ behavior.\r\n
+numComments=2

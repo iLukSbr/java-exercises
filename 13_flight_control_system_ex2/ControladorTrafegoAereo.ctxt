@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ControladorTrafegoAereo
+comment1.params=nome
+comment1.target=ControladorTrafegoAereo(java.lang.String)
+comment2.params=aviao
+comment2.target=void\ darPermissaoDecolagem(Aviao)
+comment3.params=aviao
+comment3.target=void\ darPermissaoAterrissagem(Aviao)
+comment4.params=aviao
+comment4.target=void\ informarEspera(Aviao)
+numComments=5

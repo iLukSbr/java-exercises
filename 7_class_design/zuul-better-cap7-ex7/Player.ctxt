@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=startRoom\ maxWeight
+comment1.target=Player(Room,\ int)
+comment2.params=room
+comment2.target=void\ setCurrentRoom(Room)
+comment3.params=
+comment3.target=Room\ getCurrentRoom()
+comment4.params=item
+comment4.target=boolean\ canCarry(Item)
+comment5.params=item
+comment5.target=void\ takeItem(Item)
+comment6.params=item
+comment6.target=void\ dropItem(Item)
+comment7.params=
+comment7.target=int\ getInventoryWeight()
+numComments=8

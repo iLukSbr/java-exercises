@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pista
+comment1.params=identificador
+comment1.target=Pista(java.lang.String)
+comment2.params=aviao
+comment2.target=void\ adicionarAviaoDecolando(Aviao)
+comment3.params=aviao
+comment3.target=void\ adicionarAviaoAterrissando(Aviao)
+comment4.params=
+comment4.target=boolean\ verificarDisponibilidade()
+comment5.params=
+comment5.target=boolean\ verificarIntegridade()
+numComments=6

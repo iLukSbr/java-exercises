@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Videogame
+comment0.text=\r\n\ The\ Videogame\ class\ represents\ a\ Videogame\ object.\ Information\ about\ the\ \r\n\ Videogame\ is\ stored\ and\ can\ be\ retrieved.\ We\ assume\ that\ we\ only\ deal\ \r\n\ with\ movie\ Videogames\ at\ this\ stage.\r\n\ \r\n\ @author\ Lucas\ Yukio\ Fukuda\ Matsumoto\r\n\ @version\ 2023.10.09\r\n
+comment1.params=theTitle\ theCompany\ time
+comment1.target=Videogame(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Videogame\r\n\ @param\ theTitle\ The\ title\ of\ this\ Videogame.\r\n\ @param\ time\ The\ maximum\ running\ time\ of\ the\ game.\r\n\ @param\ theCompany\ The\ name\ of\ the\ company\ that\ created\ this\ Videogame.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCompany()
+comment2.text=\r\n\ @return\ The\ name\ of\ the\ company\ that\ created\ this\ Videogame.\r\n
+numComments=3
